@@ -24,10 +24,10 @@ Build a **proof-of-concept (PoC)** domain expert model that can:
 ```
 ## 📁 Project Structure
 Domain-Specific-Language-Model-Fine-Tuning/
-├── screenshots/              # Screenshots of notebook, deployment, testing, etc.
-├── notebooks/                # Jupyter notebooks
-│   ├── 01_Model_Evaluation.ipynb  # evaluation of the model's text generation capabilities
-│   ├── 02_Model_FineTuning.ipynb  # fine-tuning the model
+├── screenshots/                      # Screenshots of notebook, deployment, testing, etc.
+├── notebooks/                        # Jupyter notebooks
+│   ├── 01_Model_Evaluation.ipynb     # evaluation of the model's text generation capabilities
+│   ├── 02_Model_FineTuning.ipynb     # fine-tuning the model
 ```
 
 ---
